@@ -1,0 +1,1 @@
+Image names for training and validation Need to be under train.txt and val.txt (remove suffixes)
